@@ -1,0 +1,1 @@
+check the file after the particular given scheduled time the build will trigger using PollSCM in site the gitJob > Configuration
